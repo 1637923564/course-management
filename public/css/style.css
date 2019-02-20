@@ -1,0 +1,10 @@
+.logo{
+  width:130px;
+  margin:auto;
+}
+.container .row a.reg {
+  /* display: inline-block; */
+  float: right;
+  padding-top: 10px;
+  padding-right: 5px;
+}
